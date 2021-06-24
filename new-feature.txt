@@ -3,3 +3,5 @@ Hello! It's a new feature.
 The feature is really good.
 
 I liked the feature.
+
+Solving the issue.
